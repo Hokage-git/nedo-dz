@@ -1,0 +1,6 @@
+﻿  ConsoleApplication17.cpp
+C:\Users\derta\source\repos\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(73,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\derta\source\repos\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(96,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\derta\source\repos\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(230,29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\derta\source\repos\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(237,37): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication17.vcxproj -> C:\Users\derta\source\repos\ConsoleApplication17\Debug\ConsoleApplication17.exe
